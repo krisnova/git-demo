@@ -6,7 +6,7 @@ answer 002 - nivenly.com/questions
 
 here is my recipe
 
-# outmeal boy
+# oatmeal boy
 
 here is my oatmeal boy
 
